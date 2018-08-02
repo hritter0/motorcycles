@@ -1,1 +1,1 @@
-motorcycle_explore contains the data cleaning and some initial exploration. motorcycle_models contains the modeling (and occasional data cleaning as it comes up.)
+motorcycle_explore contains the data cleaning and some initial exploration. motorcycle_models contains the modeling (and occasional data cleaning as it comes up.) The .doc file is the documentation from SWIRTS, including the interpretation of all the columns and codes therein.
